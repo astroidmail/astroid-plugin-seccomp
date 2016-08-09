@@ -1,0 +1,11 @@
+[Plugin]
+Module=seccomp
+Depends=
+Loader=python3
+Name=seccomp plugin
+Description=plugin
+Authors=Michael Dietrich
+Copyright=GPLv3
+Website=
+Help=
+Hidden=false
